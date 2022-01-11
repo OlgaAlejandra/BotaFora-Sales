@@ -12,7 +12,7 @@ The application works client-side for the most part, taking advantage of the sto
 The project is open to changes or suggestions. Constructive criticism of any kind is welcome.
 
 ## Installation :electric_plug:
-Clone yardsales:
+Clone BotaFora:
 ```
 git clone 
  ```
